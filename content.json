@@ -1,0 +1,157 @@
+{
+  "personal": {
+    "name": "Qamar Alkadi",
+    "role": "Student at Ajman University",
+    "location": "Dubai, UAE",
+    "email": "qamaralkadii@gmail.com",
+    "phone": "+971561332078",
+    "github": "https://github.com/qamarkadii",
+    "linkedin": "https://www.linkedin.com/in/qamar-alkadi-4a097531a",
+    "tagline": "Student Portfolio",
+    "headline": "Student builder exploring programming, AI, and web development.",
+    "summary": "I'm a student with a growing passion for technology and coding. I enjoy learning new skills and building projects that solve real-life problems.",
+    "about": "Currently, I'm exploring programming, AI, and web development while improving my problem-solving and creativity. I like hands-on projects that combine software with hardware and help me learn by building.",
+    "highlights": [
+      "Focused on programming, AI, and web development.",
+      "Interested in practical projects that solve real-world problems.",
+      "Building skills across software, embedded systems, and computer vision."
+    ]
+  },
+  "stats": [
+    {
+      "value": "2025",
+      "label": "University Start"
+    },
+    {
+      "value": "2",
+      "label": "Featured Projects"
+    },
+    {
+      "value": "10+",
+      "label": "Core Skills"
+    },
+    {
+      "value": "AI + Web",
+      "label": "Main Focus"
+    }
+  ],
+  "education": [
+    {
+      "period": "2025 - 2029",
+      "institution": "Ajman University",
+      "degree": "University Studies",
+      "details": "Current student building skills in programming, AI, and web development."
+    },
+    {
+      "period": "2014 - 2025",
+      "institution": "Alnoor International School",
+      "degree": "School Education",
+      "details": "Completed school studies before starting university in 2025."
+    }
+  ],
+  "experience": [
+    {
+      "period": "2025 - Present",
+      "location": "Dubai, UAE",
+      "role": "Student Developer",
+      "company": "Personal Projects",
+      "summary": "Building practical projects while studying, with a focus on programming, AI, web development, and hardware-based systems.",
+      "highlights": [
+        "Built robotics and computer vision projects using microcontrollers, Raspberry Pi, and Python-based tools.",
+        "Practiced problem solving through project-based learning and debugging across hardware and software.",
+        "Improved technical range by working on AI, web, and embedded system concepts."
+      ],
+      "stack": [
+        "Python",
+        "Java",
+        "HTML",
+        "CSS",
+        "OpenCV",
+        "Raspberry Pi",
+        "Arduino"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming",
+      "items": [
+        "Python",
+        "Java (OOP basics)"
+      ]
+    },
+    {
+      "category": "Web Development",
+      "items": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "category": "Technologies",
+      "items": [
+        "Raspberry Pi",
+        "Arduino / Microcontrollers",
+        "OpenCV (Computer Vision basics)"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "GitHub",
+        "VS Code",
+        "AI tools (ChatGPT, Codex)"
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        "Problem solving",
+        "Quick learner",
+        "Creativity",
+        "Debugging & troubleshooting"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "kind": "Robotics Project",
+      "status": "Built",
+      "name": "Robotic Arm (Adeept Kit)",
+      "description": "Designed and built a multi-axis robotic arm using servo motors and a microcontroller, with a functional gripper and coordinated movement control.",
+      "stack": [
+        "Microcontroller",
+        "Servo Motors",
+        "Robotics",
+        "Hardware Integration"
+      ],
+      "link": "#"
+    },
+    {
+      "kind": "AI / Computer Vision",
+      "status": "Built",
+      "name": "Car Object Detection (Raspberry Pi)",
+      "description": "Developed a real-time object detection system using Raspberry Pi, a camera, OpenCV, and pre-trained models for vehicle detection on edge devices.",
+      "stack": [
+        "Python",
+        "Raspberry Pi",
+        "OpenCV",
+        "Computer Vision",
+        "AI"
+      ],
+      "link": "#"
+    }
+  ],
+  "future_projects": [
+    {
+      "name": "AI Study Assistant",
+      "description": "A student-focused tool that helps summarize notes, support revision, and improve study flow.",
+      "goal": "Combine AI with practical daily learning."
+    },
+    {
+      "name": "Personal Web Projects",
+      "description": "More portfolio and web app builds to improve frontend, backend, and UI skills.",
+      "goal": "Keep shipping projects and strengthen full-stack ability."
+    }
+  ]
+}
